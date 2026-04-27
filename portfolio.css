@@ -710,11 +710,7 @@ footer {
         padding: 0 15px;
         z-index: 1000;
     }
-
-    .justify-content-center {
-        display: none;
-    }
-
+    
     nav {
         flex-direction: row;
         gap: 0;
